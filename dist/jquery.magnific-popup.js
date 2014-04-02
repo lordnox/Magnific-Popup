@@ -1,6 +1,6 @@
-/*! Magnific Popup - v0.9.9 - 2013-12-27
+/*! Magnific Popup - v0.9.9 - 2014-04-02
 * http://dimsemenov.com/plugins/magnific-popup/
-* Copyright (c) 2013 Dmitry Semenov; */
+* Copyright (c) 2014 Dmitry Semenov; */
 ;(function($) {
 
 /*>>core*/
@@ -896,7 +896,7 @@ $.magnificPopup = {
 
 		overflowY: 'auto',
 
-		closeMarkup: '<button title="%title%" type="button" class="mfp-close">&times;</button>',
+		closeMarkup: '<button title="%title%" type="button" class="mfp-close"><span class="headline-04">SCHLIESSEN</span>&times;</button>',
 
 		tClose: 'Close (Esc)',
 
